@@ -11,7 +11,7 @@ email: wouldeatagain@gmail.com
 description: >
   Meatless recipes you'll definitely want to eat again.
 baseurl: ""
-url: "http://localhost:4000"
+url: "http://wouldeatagain.ca"
 twitter_username: wouldeatagain
 
 # Build settings
