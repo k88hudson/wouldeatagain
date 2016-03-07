@@ -13,6 +13,6 @@ description: >
 baseurl: "/wouldeatagain"
 url: "https://k88hudson.github.io"
 twitter_username: wouldeatagain
-
 # Build settings
 markdown: kramdown
+permalink: "/:year/:month/:day/:title"
