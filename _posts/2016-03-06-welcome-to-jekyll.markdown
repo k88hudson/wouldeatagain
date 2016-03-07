@@ -13,9 +13,9 @@ A few months ago they took one of favourites – the "Rosedale Melt – off the 
 
 I've made a few modifications from the Rebel House's version – the original uses spinach and marinara sauce, and mine uses arugula and cherry tomatoes, but it tastes pretty similar. Hope you enjoy it!
 
-![Rosedale melt]({{ site.url }}/images/rosedale-melt-2.jpg)
+![Rosedale melt]({{ site.baseurl }}/images/rosedale-melt-2.jpg)
 
-![Rosedale melt]({{ site.url }}/images/rosedale-melt-3.jpg)
+![Rosedale melt]({{ site.baseurl }}/images/rosedale-melt-3.jpg)
 
 ## Ingredients
 
