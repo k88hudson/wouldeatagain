@@ -32,7 +32,7 @@
 
   &,
   &:visited {
-    color: lighten($grey-color-dark, 50%);
+    color: lighten($grey-color-dark, 55%);
   }
 
   &:hover {
@@ -244,7 +244,11 @@
 
 .post-link {
   display: block;
-  font-size: 32px;
+  line-height: 1.3;
+  font-size: 22px;
+  @media (min-width: 450px) {
+    font-size: 32px;
+  }
 }
 
 
