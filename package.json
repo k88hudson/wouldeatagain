@@ -1,0 +1,19 @@
+{
+  "name": "wouldeatagain",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "jekyll serve --config _config.yml,_config.local.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k88hudson/wouldeatagain.git"
+  },
+  "author": "k88hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k88hudson/wouldeatagain/issues"
+  },
+  "homepage": "https://github.com/k88hudson/wouldeatagain"
+}
