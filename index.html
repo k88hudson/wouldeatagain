@@ -16,8 +16,10 @@ layout: default
 
       <div class="excerpt">
           <span class="post-meta">Latest post • {{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2 class="first-post-title">{{ post.title }}</h2>
-          <p><img class="first-post-image" src="{{ site.baseurl }}/images/{{ post.image }}" /></p>
+          <h2 class="first-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p><a href="{{ post.url | prepend: site.baseurl }}">
+            <img class="first-post-image" src="{{ site.baseurl }}/images/{{ post.image }}" />
+          </a></p>
         {{ post.excerpt}}
       </div>
       <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
