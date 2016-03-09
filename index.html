@@ -4,18 +4,39 @@ layout: default
 
 <div class="home">
 
+  {% for post in site.posts limit:1 %}
+    <div class="first-post">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <!-- <div class="first-post-header">
+          <span class="post-meta">Latest post • {{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2 class="first-post-title">{{ post.title }}</h2>
+        </div> -->
+        <!-- <p><img class="first-post-image" src="{{ site.baseurl }}/images/{{ post.image }}" /></p> -->
+      </a>
+
+      <div class="excerpt">
+          <span class="post-meta">Latest post • {{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2 class="first-post-title">{{ post.title }}</h2>
+          <p><img class="first-post-image" src="{{ site.baseurl }}/images/{{ post.image }}" /></p>
+        {{ post.excerpt}}
+      </div>
+      <p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
+    </div>
+  {% endfor %}
+
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts offset:1 limit:3 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <img src="{{ site.baseurl }}/images/{{ post.image }}" />
+
+        <div class="post-image" style="background-image: url({{ site.baseurl }}/images/{{ post.image }});"></div>
+        <div class="post-info">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2 class="post-link">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </div>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
