@@ -2,34 +2,24 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <h2 class="footer-heading">gotta design this footer lol</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <p>
+          {{ site.description }}
+        </p>
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
+          <li>creative commons stuff here</li>
         </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p>
-          {{ site.description }}
-        </p>
-      </div>
-    </div>
-
   </div>
 
 </footer>
