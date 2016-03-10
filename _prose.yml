@@ -1,0 +1,41 @@
+prose:
+  rooturl: "_posts"
+  siteurl: "http://wouldeatagain.ca"
+  media: "images"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "author"
+        field:
+          element: "text"
+          label: "author"
+      - name: "date"
+        field:
+          element: "text"
+          label: "date"
+          value: "CURRENT_DATETIME"
+      - name: categories
+        field:
+          element: multiselect
+          label: categories
+          options:
+            - vegetarian
+            - vegan
+            - dessert
+            - brunch
+            - cheese
+      - name: ingredients
+        field:
+          element: multiselect
+          label: ingredients
+          alterable: true
+      - name: directions
+        field:
+          element: textarea
+          label: directions
+          value: |
+            1. step 1
+            2. step 2
