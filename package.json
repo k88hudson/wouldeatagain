@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/k88hudson/wouldeatagain/issues"
   },
-  "homepage": "https://github.com/k88hudson/wouldeatagain"
+  "homepage": "https://github.com/k88hudson/wouldeatagain",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs-extra": "^0.26.5",
+    "imagemagick": "^0.1.3"
+  }
 }

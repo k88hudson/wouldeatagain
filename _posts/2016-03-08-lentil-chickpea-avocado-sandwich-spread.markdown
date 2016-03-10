@@ -5,6 +5,7 @@ author: Kate Hudson
 date:   2016-03-07 16:03:37 -0500
 categories: vegan, recipe adaptation
 image: lentil-spread.jpg
+time: 40 min
 ---
 
 Who doesn't love a good sandwich? This recipe is inspired by Brittany from ilovevegan.com's [lentil-chickpea-salad sandwiches](http://www.ilovevegan.com/lentil-chickpea-salad-sandwiches). My adaptation uses avocado instead of [Vegenaise](http://followyourheart.com/vegenaise-family/) (although Vegenaise is delicious too!), and spices things up with curry powder, chipotle pepper, horse radish, and raw garlic... if you can handle it!
