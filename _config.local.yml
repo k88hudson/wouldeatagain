@@ -6,5 +6,4 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-baseurl: ""
 url: "http://localhost:4000"

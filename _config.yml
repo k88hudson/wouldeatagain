@@ -11,6 +11,7 @@ email: wouldeatagain@gmail.com
 description: >
   Something about how these are meatless recipes and whatever
 baseurl: ""
+images_path: "/assets"
 url: "http://wouldeatagain.ca"
 twitter_username: wouldeatagain
 # Build settings

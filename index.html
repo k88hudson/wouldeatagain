@@ -18,7 +18,7 @@ layout: default
           <span class="post-meta">Latest post • {{ post.date | date: "%b %-d, %Y" }}</span>
           <h2 class="first-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
           <p><a href="{{ post.url | prepend: site.baseurl }}">
-            <img class="first-post-image" src="{% asset_path {{ post.image }} %}" />
+            <img class="first-post-image" src="{{ site.images_path }}/{{ post.image }}" />
           </a></p>
         {{ post.excerpt}}
       </div>
@@ -35,9 +35,9 @@ layout: default
       {% endif %}
       <li>
         <a href="{{ post.url }}">
-          <div class="post-image" style="background-image: url({% asset_path {{ image }} %});">
+          <div class="post-image" style="background-image: url({{ site.images_path }}/{{ image }});">
           {% if post.image_hover %}
-            <div class="post-image-hover"style="background-image: url({% asset_path {{ post.image_hover }} %});"></div>
+            <div class="post-image-hover"style="background-image: url({{ site.images_path }}/{{ post.image_hover }});"></div>
           {% endif %}
           </div>
           <div class="post-info">
