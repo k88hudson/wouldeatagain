@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "jekyll serve --config _config.yml,_config.local.yml"
+    "start": "jekyll serve --config _config.yml,_config.local.yml",
+    "thumbnails": "node ./scripts/thumbnails"
   },
   "repository": {
     "type": "git",

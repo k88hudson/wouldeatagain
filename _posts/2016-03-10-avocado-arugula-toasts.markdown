@@ -8,7 +8,7 @@ categories:
   - vegan
 image: avocado-arugula-toasts.jpg
 image_square: avocado-arugula-toasts-square.jpg
-image_hover: avocado-arugula-toasts-hover.jpg
+image_hover: avocado-arugula-toasts-alt-square.jpg
 time: 10 minutes
 ingredients:
   - pumpernickle or rye bread
