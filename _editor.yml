@@ -1,0 +1,24 @@
+editor:
+  metadata:
+    - key: "title"
+      type: text
+      label: "Title"
+    - key: "author"
+      type: "text"
+      label: "Author"
+    - key: image
+      type: image
+      label: Image
+      resolve: assets
+    - key: "date"
+      type: "text"
+      label: "Date"
+    - key: categories
+      type: list
+      label: Categories
+    - key: ingredients
+      type: list
+      label: Ingredients
+    - key: directions
+      type: markdown
+      label: Directions

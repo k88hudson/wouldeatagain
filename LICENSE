@@ -1,6 +1,6 @@
 1. Definitions:
 
-  "Content" is defined as blog posts under the _posts/ directory and images under the images/ directory in this repository.
+  "Content" is defined as blog posts under the _posts/ directory and images under the assets/ directory in this repository.
   "Software" is defined as anything else in this repository.
 
 

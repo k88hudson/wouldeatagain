@@ -2,7 +2,7 @@
 layout: hero
 ---
 <article class="post h-recipe" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="hero-image" style="background-image: url({{ site.baseurl}}/images/{{ page.image }})">
+  <div class="hero-image" style="background-image: url({% asset_path {{ page.image }} %})">
   </div>
   <div class="wrapper">
     <header class="post-header">
@@ -14,23 +14,25 @@ layout: hero
     <div class="post-content" itemprop="articleBody">
       {{ content }}
 
-      {% if page.ingredients %}
-      <div class="ingredients">
-        <h2>Ingredients</h2>
-        <ul>
-          {% for ingredient in page.ingredients %}
-          <li class="p-ingredient">{{ ingredient | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endif %}
+      <div class="ingredients-directions-container">
+        {% if page.ingredients %}
+        <div class="ingredients">
+          <h2>Ingredients</h2>
+          <ul>
+            {% for ingredient in page.ingredients %}
+            <li class="p-ingredient">{{ ingredient | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
 
-      {% if page.directions %}
-      <div class="directions e-instructions">
-        <h2>Directions</h2>
-        {{ page.directions | markdownify }}
+        {% if page.directions %}
+        <div class="directions e-instructions">
+          <h2>Directions</h2>
+          {{ page.directions | markdownify }}
+        </div>
+        {% endif %}
       </div>
-      {% endif %}
     </div>
 
 </div>

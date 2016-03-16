@@ -8,7 +8,7 @@
   width: 100%;
   transition: 0.2s 0.1s background-color;
   &:hover {
-    background-color: rgba(white, 0.8);
+    background-color: rgba(white, 0.4);
   }
  }
 
@@ -27,12 +27,12 @@
   margin-bottom: 0;
   float: left;
   .lighter {
-    color: lighten($grey-color-dark, 30%);
+    color:rgba(#000, 0.5);
   }
 
   &,
   &:visited {
-    color: lighten($grey-color-dark, 55%);
+    color: rgba(#000, 0.3);
   }
 
   &:hover {
@@ -52,7 +52,7 @@
   }
 
   .page-link {
-    color: lighten($grey-color-dark, 50%);
+    color:rgba(#000, 0.3);
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -247,7 +247,7 @@
     display: block;
     margin: 20px auto;
     @media (min-width: 450px) {
-      width: 70%;
+      width: 60%;
     }
     @media (min-width: 600px) {
       margin: 30px auto;
@@ -255,7 +255,7 @@
   }
   .excerpt {
     @media (min-width: 600px) {
-      padding: $spacing-unit 40px 0 40px;
+      padding: 0 40px;
     }
     text-align: center;
     line-height: 1.8;
@@ -279,6 +279,11 @@
       border: 1px solid lighten($brand-color, 20%);
       padding: 6px 15px;
       border-radius: 3px;
+      &:hover {
+        background: $brand-color;
+        color: white;
+        border-color: $brand-color;
+      }
     }
   }
   border-bottom: 1px solid #DDD;
@@ -323,6 +328,22 @@
     padding-top: 100%;
     background-size: cover;
     background-position: center;
+    position: relative;
+    overflow: hidden;
+    .post-image-hover {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+      transition: opacity 0.2s ease;
+      opacity: 0;
+    }
+    &:hover .post-image-hover {
+      opacity: 1;
+    }
   }
   .post-info {
     text-align: center;
@@ -416,6 +437,59 @@
 
     @include media-query($on-laptop) {
       font-size: 18px;
+    }
+  }
+
+  img {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+}
+
+.ingredients-directions-container {
+  font-size: 15px;
+  .ingredients ul {
+    list-style: none;
+    font-weight: bold;
+
+    line-height: 1.4;
+    li {
+      margin-bottom: 5px;
+    }
+  }
+  .directions {
+    line-height: 1.6;
+    li {
+      margin-bottom: 15px;
+    }
+    ol {
+      list-style: none;
+      counter-reset: directions-counter;
+      li {
+        position: relative;
+        &::before {
+          color: #C7C7C7;
+        	content: counter(directions-counter);
+        	counter-increment: directions-counter;
+          position: absolute;
+          right: 100%;
+          margin-right: 12px;
+        }
+      }
+    }
+  }
+  h2 {
+    font-size: 18px;
+  }
+  @media (min-width: 600px) {
+    display: flex;
+    .ingredients {
+      font-size: 14px;
+      width: 30%;
+      flex-shrink: 0;
+      margin-right: 40px;
     }
   }
 }
