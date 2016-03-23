@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Lentil & Black Bean Bolognese
+title:  Lentil & black bean bolognese
 author: Kate Hudson
-date:   2016-03-07 16:03:37 -0500
+date:   2016-03-10 16:03:37 -0500
 categories: vegan
 image: lentil-bean-bolognese.jpg
 image_square: lentil-bean-bolognese-square.jpg

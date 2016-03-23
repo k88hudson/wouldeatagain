@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Lentil, Chickpea, & Avocado Sandwich spread
+title:  Lentil, chickpea, & avocado sandwich spread
 author: Kate Hudson
-date:   2016-03-14 10:03:37 -0500
+date:   2016-03-23 10:03:37 -0500
 categories: vegan, recipe adaptation
 image: lentil-spread.jpg
 time: 40 min

@@ -2,7 +2,7 @@
 layout: post
 title:  Better than eggs benedict—the Rosedale melt
 author: Kate Hudson
-date:   2016-03-06 16:03:37 -0500
+date:   2016-03-07 16:03:37 -0500
 categories:
   - cheese
   - vegetarian

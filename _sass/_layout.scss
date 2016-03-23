@@ -233,7 +233,7 @@
     border-top-color: $brand-color;
   }
   .first-post-title {
-    font-family: "Playfair Display";
+    font-family: $fancy-font;
     font-size: 24px;
     font-style: italic;
     line-height: 1.4;
@@ -261,7 +261,7 @@
     line-height: 1.8;
     a {
       font-style: italic;
-      font-family: "Playfair Display";
+      font-family: $fancy-font;
     }
   }
   .read-more {
@@ -358,7 +358,7 @@
     // }
   }
   .eta {
-    font-family: "Playfair Display";
+    font-family: $fancy-font;
     font-style: italic;
   }
 }
