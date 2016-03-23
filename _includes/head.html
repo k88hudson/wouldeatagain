@@ -5,6 +5,25 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.title %}
+
+  <meta content="{{ site.title }}" property="og:site_name">
+  {% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">
+  {% else %}
+  <meta content="{{ site.title }}" property="og:title">
+  {% endif %}
+  <meta content="article" property="og:type">
+  {% else %}
+  <meta content="website" property="og:type">
+  {% endif %}
+  {% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">
+  {% endif %}
+  {% if page.image %}
+  <meta content="{{ site.url }}{{ site.images_path }}/{{ page.image }}" property="og:image">
+  <!-- TODO: add site image -->
+  {% endif %}
 
   <link href='https://fonts.googleapis.com/css?family=Montserrat|Merriweather:400,700|Playfair+Display:400italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
