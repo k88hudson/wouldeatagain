@@ -2,7 +2,7 @@
 layout: post
 title:  Savory plantains & guacamole
 author: Kate Hudson
-date:   2016-04-01 10:03:37 -0500
+date:   2016-04-02 10:03:37 -0500
 categories: vegan
 image: tostones_portrait.jpg
 image_square: tostones_square.jpg
