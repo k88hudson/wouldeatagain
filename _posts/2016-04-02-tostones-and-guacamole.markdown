@@ -28,7 +28,7 @@ directions: |
   8. Serve and enjoy
 ---
 
-I absolutely love plantains, whether they're sweet, savoury, thick, thin, crunchy or soft. This recipe is based on a Cuban preparation for for savoury plaintains called *tostones*, which means "to toast". They are traditionally served with a garlic sauce (if you're interested, check out the recipe for *mojo* on [Serious Eats](http://www.seriouseats.com/recipes/2011/06/sauced-mojo-sauce-condiments-recipe.html)) but I like to make them with a simple guacamole on the side.
+I absolutely love plantains, whether they're sweet, savoury, thick, thin, crunchy or soft. This recipe is based on a Cuban preparation for savoury plaintains called *tostones*, which means "to toast". They are traditionally served with a garlic sauce (if you're interested, check out the recipe for *mojo* on [Serious Eats](http://www.seriouseats.com/recipes/2011/06/sauced-mojo-sauce-condiments-recipe.html)) but I like to make them with a simple guacamole on the side.
 
 The trick to finding the right plantains for this dish is to look for the **green, unripe** ones. When the plantains turn yellow or black, they are better on the bbq or baked and taste sweet.
 
