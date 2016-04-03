@@ -33,3 +33,6 @@ I absolutely love plantains, whether they're sweet, savory, thick, thin, crunchy
 The trick to finding the right plantains for this dish is to look for the **green, unripe** ones. When the plantains turn yellow or black, they are better on the bbq or baked and taste sweet.
 
 I try save these for special occasions or when I have company over since they aren't particularly healthy. But when I do make them, damn, do they disappear quickly!
+
+![Plantains should be green]({{ site.images_path }}/plantains.jpg)
+![Tostones are delicious]({{ site.images_path }}/tostones.jpg)
