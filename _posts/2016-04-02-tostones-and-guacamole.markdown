@@ -35,4 +35,5 @@ The trick to finding the right plantains for this dish is to look for the **gree
 I try save these for special occasions or when I have company over since they aren't particularly healthy. But when I do make them, damn, do they disappear quickly!
 
 ![Plantains should be green]({{ site.images_path }}/plantains.jpg)
+![Sizzling in the pan]({{ site.images_path }}/tostones_in_pan.jpg)
 ![Tostones are delicious]({{ site.images_path }}/tostones.jpg)
