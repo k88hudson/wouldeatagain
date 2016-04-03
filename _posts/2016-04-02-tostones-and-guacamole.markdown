@@ -18,7 +18,7 @@ ingredients:
   - cilantro
 
 directions: |
-  1. Remove the skin from the plantains by scoring the outer ridge and peeling away the skin (this takes some practice).  Chop them into slices, about 3 centimetres thick. The thinner they are, the faster they cook.
+  1. Remove the skin from the plantains by scoring the outer ridge and peeling away the skin (this takes some practice).  Chop them into slices, about 1 centimetre thick. The thinner they are, the faster they cook.
   2. Heat a generous amount of oil in a pan on medium-high. Add the plantains to the pan.
   3. When they are nicely golden brown on the bottom, flip them over with some tongs.
   4. When both sides are golden, remove from the oil and drain on some paper towels.
