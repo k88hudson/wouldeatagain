@@ -19,6 +19,7 @@ ingredients:
   - basil
   - olive oil
   - 2 or 3 red peppers
+allergy_info: none
 directions: |
   1. Preheat the oven to 450°F. When it's ready, add the red peppers and cook for about half an hour or so, until the outside skin is nicely blackened. To save time, you can also skip this step and use a jar of pre-roasted peppers.
   2. Meanwhile, sauté the onions, carrots, and garlic with some olive oil until the onions are translucent.

@@ -22,6 +22,10 @@ ingredients:
   - Olive oil
   - Balsamic glaze
 
+allergy_info:
+  - dairy
+  - eggs
+
 directions: |
   1. Start boiling some water for the poached the eggs and set your oven to broil on high.
   2. Cut your cherry tomatoes in half. Add a splash of olive oil to a small pan, and then add the cherry tomatoes.

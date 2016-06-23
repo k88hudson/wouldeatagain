@@ -21,7 +21,8 @@ directions: |
   2. Roughly mash avocado, dill, salt, and pepper together.
   3. Put the toast in the toaster. Don't do this too early—you want the toast to still be hot when you eat it.
   4. Spread the avocado over the toast. Top with arugula.
-
+allergy_info:
+  - wheat
 ---
 
 This is just a simple breakfast I make on week days. I like my toast extra crispy and always eat it with a cup of tea. This is so yummy and simple it makes me want to be a morning person! Well, almost...

@@ -20,7 +20,8 @@ ingredients:
   - lemon juice (optional)
   - sprouts or other little greens
   - bread
-
+allergy_info:
+  - wheat
 directions: |
   1. Blend the chickpeas, and lentils in a food processor with a bit of olive oil. I kept the mixture pretty coarse so there was still a nice texture to it.
   2. Mash up avocado with a spoon. Add a bit of horse radish if you like it spicy. Mix into the chickpeas/lentils.

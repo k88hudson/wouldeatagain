@@ -33,6 +33,19 @@ layout: hero
         </div>
         {% endif %}
       </div>
+
+      {% if page.allergy_info %}
+      <div class="allergy-info-container">
+        <h2>Allergy information</h2>
+        <table class="allergy-info-table">
+          <tr>
+            {% for item in site.allergens %}
+              <td {% if page.allergy_info contains item %}class="contains"{% endif %}>{{ item }}</td>
+            {% endfor %}
+          </tr>
+        </table>
+      </div>
+      {% endif %}
     </div>
 
 </div>

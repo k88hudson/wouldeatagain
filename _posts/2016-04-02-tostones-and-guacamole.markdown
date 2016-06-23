@@ -16,7 +16,7 @@ ingredients:
   - 2 avocados
   - 1/4 red onion
   - cilantro
-
+allergy_info: none
 directions: |
   1. Remove the skin from the plantains by scoring the outer ridge and peeling away the skin (this takes some practice).  Chop them into slices, about 1 centimetre thick. The thinner they are, the faster they cook.
   2. Heat a generous amount of oil in a pan on medium-high. Add the plantains to the pan.

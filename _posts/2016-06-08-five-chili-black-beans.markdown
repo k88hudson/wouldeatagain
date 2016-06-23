@@ -27,6 +27,8 @@ ingredients:
   - feta cheese, cubed
   - boiled beets, cubed
   - home-made vinaigrette
+allergy_info:
+  - dairy
 
 directions: |
   1. Dice onions finely and add them to some olive oil in a pan. Cook them until they're soft, but not brown.

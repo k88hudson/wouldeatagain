@@ -448,6 +448,27 @@
   }
 }
 
+.allergy-info-container {
+  padding-bottom: 20px;
+  h2 {
+    font-size: 18px;
+  }
+  .allergy-info-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 15px;
+    td {
+      border: 1px solid #DDD;
+      text-align: center;
+      opacity: 0.2;
+      &.contains {
+        opacity: 1;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
 .ingredients-directions-container {
   font-size: 15px;
   .ingredients ul {
