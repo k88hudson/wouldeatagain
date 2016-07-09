@@ -45,3 +45,5 @@ directions: |
 The secret to amazing hummus is soft chickpeas and just the right blend of salt, spice, fat, and acid. Start by boiling your chickpeas until they are almost falling apart. Some people swear by peeling the chickpeas as well, but I don't think it's necessary – just whatever you do, don't use chickpeas straight from the can.
 
 Most hummus gets its flavour from salt, garlic, sesame paste, and lemon. This recipe changes things up a little with a traditional Indian masala, including a little bit of cooked onion. If you prepare it the way I do and don't add any sesame paste, make sure you use plenty of olive oil. I also like to use just the slightest amount of miso mixed with the water you get from boiling chickpeas, just to add a bit of an umami punch. Weird, I know – but it works really well! I add it to my veggie curries all the time.
+
+![Indian spices in a pan]({{ site.images_path }}/masala.jpg)
