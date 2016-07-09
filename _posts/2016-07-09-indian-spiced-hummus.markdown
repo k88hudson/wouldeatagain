@@ -17,7 +17,7 @@ ingredients:
   - whole black pepper
   - cloves
   - cinnamon
-  - kashmiri chili powder
+  - kashmiri chilli powder
   - coriander powder
   - tumeric powder
   - a bit of cumin powder
@@ -34,7 +34,7 @@ directions: |
   3. While the chickpeas are boiling, blend whole spices in spice blender together with plenty of ginger and garlic. You can also use a mortar and pestle.
   4. Add a generous amount of olive oil to a pan. Add the spice/garlic/ginger mixture.
   5. Chop the onion and add it to the pan.
-  6. Once you've cooked out all the raw flavours of the spice mix, add chili powder, coriander powder, tumeric, and cumin powder. Cook for a few more minutes and turn off the heat.
+  6. Once you've cooked out all the raw flavours of the spice mix, add chilli powder, coriander powder, tumeric, and cumin powder. Cook for a few more minutes and turn off the heat.
   7. Put the chickpeas in a food processor, reserving the water. Add a teaspoon or so of miso to the water and stir.
   8. Add masala, lime juice, chopped fresh coriander, a little of the chickpea liquid, and more olive oil if desired.
   9. Blend the mixture until smooth.
