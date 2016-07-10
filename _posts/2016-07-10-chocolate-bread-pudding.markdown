@@ -5,7 +5,7 @@ author: Pomax
 date:   2016-07-10 8:10:42 -0800
 categories: vegetarian
 image: chocolate-bread-pudding.jpg
-time: 1.5 hr + overnight cooling
+time: 1.5 hr + optional overnight cooling
 ingredients:
   - stale bread (100%)
   - milk (150%) 
