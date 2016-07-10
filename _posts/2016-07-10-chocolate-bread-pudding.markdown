@@ -13,7 +13,7 @@ ingredients:
   - 1 large egg per 150gr of bread
   - plain white sugar (50%)
   - proper brown sugar, not demerara (25%)
-  - dark chocolate (150%)
+  - dark chocolate, aim for around the 60% darkness mark (150%)
   - a tablespoon of butter
   - a good splash of vanillin
   - a pinch of ground clove
