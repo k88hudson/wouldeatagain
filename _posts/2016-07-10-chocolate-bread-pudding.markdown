@@ -10,7 +10,7 @@ ingredients:
   - stale bread (100%)
   - milk (150%) 
   - wipping cream (150%)
-  - 1 large eggs per 150gr of bread
+  - 1 large egg per 150gr of bread
   - plain white sugar (50%)
   - proper brown sugar, not demerara (25%)
   - dark chocolate (150%)
