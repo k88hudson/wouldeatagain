@@ -19,7 +19,9 @@ ingredients:
   - a pinch of ground clove
   - quite a bit of ground cinnamon
 allergy_info:
-  - milk, egg, gluten
+  - dairy
+  - eggs
+  - wheat
 directions: |
   1. Break up the bread into small chunks (think roughly 2" cubes) and cover with milk and cream to soak and soften 
   2. Once soft, mix in egg, sugar, vanilla, clove, and several tablespoons of cinnamon
@@ -44,4 +46,5 @@ It even freezes quite well, keeping for literally months (if packed in an airtig
 
 Because this is a baking recipe, there are some actual measurements for the ingredients, but they're ratio values: given however much stale bread you're using, use one and a half times as much milk (by weight!), one and a half times as much cream, half as much white sugar, etc. The eggs are a bit of an exception, because portioning eggs by weight is really tricky, so: just round off to whole eggs as you see fit.
 
-![Served with crème Anglaise, chocolate mint ice cream, and fresh mint leaves]({{ site.images_path }}/chocolate-bread-pudding.jpg)
+![Served with crème Anglaise, chocolate mint ice cream, fresh mint leaves, and Squishventures]({{ site.images_path }}/chocolate-bread-pudding-chibi.jpg)
+*Served with crème Anglaise, chocolate mint ice cream, fresh mint leaves, and [Squishventures](https://twitter.com/squishventures)*
