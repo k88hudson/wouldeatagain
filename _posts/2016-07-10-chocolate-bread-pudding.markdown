@@ -9,7 +9,7 @@ time: 1.5 hr + optional overnight cooling
 ingredients:
   - stale bread (100%)
   - milk (150%)
-  - wipping cream (150%)
+  - whipping cream (150%)
   - 1 large egg per 150gr of bread
   - plain white sugar (50%)
   - proper brown sugar, not demerara (25%)
@@ -33,7 +33,7 @@ directions: |
   8. Bake at 350F/180C for an hour
   9. Take out of the oven and have it cool down a little.
   10. Either eat as a soft, rich, chocolatey pudding immediately, or...
-  11. Wait until cooled down to room temperature, then cover with some kitchen paper towel and aluminium foil and have it compact/cool covered, overnight, then the next day:
+  11. Wait until cooled down to room temperature, then cover with some kitchen paper towel and aluminum foil and have it compact/cool covered, overnight, then the next day:
   12. Serve as either an amazing alternative to brownies, or serve as dessert with a crème Anglaise, some ice cream, or anything else you like!
 
 ---
