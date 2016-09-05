@@ -30,7 +30,7 @@ directions: |
 
 ---
 
-I have mixed feelings about the September labour day weekend. On one hand, summer is almost over. On the other hand, we get some of the best weather of the year (not too hot, not too cold), and a whole lot of birthday celebrations in my family — and that means some seriously amazing outdoor barbecue parties.
+I have mixed feelings about the September Labour Day weekend. On one hand, summer is almost over. On the other hand, we get some of the best weather of the year (not too hot, not too cold), and a whole lot of birthday celebrations in my family — and that means some seriously amazing outdoor barbecue parties.
 
 ![Table for 15 on our patio]({{ site.images_path }}/alfresco.jpg)
 
