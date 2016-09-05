@@ -21,10 +21,10 @@ ingredients:
 allergy_info:
   - dairy
 directions: |
-  1. Coarsely chop tomatoes and place them with unpeeled cloves of garlic on a cookie sheet. Drizzle with a bit of olive oil and bake at 350F/180C for about an hour.
+  1. Coarsely chop tomatoes and place them with unpeeled cloves of garlic on a pan. Drizzle with a bit of olive oil and bake at 350F/180C for about an hour.
   2. When the tomatoes are almost done, sauté some onions with a bit of olive oil and herbes de Provence in a large pot.
   3. When the onions have softened, peel the garlic and add it with the tomatoes to the pot. Add fresh thyme and  stock.
-  4. Cook the mixture around 20 minutes. See how it tastes, and add salt and pepper to taste.
+  4. Cook the mixture for about 30 minutes. See how it tastes, and add salt and pepper to taste.
   5. Use an immersion blender to blend the mixture until smooth. I like to leave it a bit chunky, but you can strain it if you like.
   6. Serve with chopped fresh basil, a bit of cream, and extra pepper.
 
