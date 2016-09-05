@@ -2,7 +2,12 @@
 layout: hero
 ---
 <article class="post h-recipe" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="hero-image" style="background-image: url({{ site.images_path }}/{{ page.image }})">
+  {% if page.image_hero %}
+    {% assign image = page.image_hero %}
+  {% else %}
+    {% assign image = page.image %}
+  {% endif %}
+  <div class="hero-image" style="background-image: url({{ site.images_path }}/{{ image }})">
   </div>
   <div class="wrapper">
     <header class="post-header">
